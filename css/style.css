@@ -1675,6 +1675,12 @@ footer ul li a i{
     width: 75%;
     background: #000000;
     margin-top: 15px;
+  }
+  #content12 .content-right {
+    background: #313131;
+    padding: 10px;
+    height: 550px;
+    overflow: hidden;
 }
  .navbar-brand{
 	 height: 0;
